@@ -13,6 +13,7 @@ class AddContact extends React.Component {
       return;
     }
     console.log(this.state);
+    console.log(this.state);
   };
   render() {
     return (
